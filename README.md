@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadero&random=falso&width=435&lines=Hola!+%E2%9C%8C%EF%B8%8F+Bienvenido+a+mi+perfil+de+GitHub" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&multiline=true&repeat=verdadero&random=falso&width=435&lines=Hola!+%E2%9C%8C%EF%B8%8F;+Bienvenido+a+mi+perfil+de+GitHub" width="70%" />
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
