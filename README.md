@@ -23,6 +23,11 @@
 <div>
     <p align="center">
         <pre align="center">
+            <!-- Esta es la pagina de la letra: https://shields.io/badges
+                Entramos y primera opcion = Unity-(color)
+                Segunda opcion style= for-the-badge
+                Tercera y cuarta-= buscar un logo y colocar el color
+            -->
         💻 Tecnologías 
         <img src = "https://img.shields.io/badge/kotlin-A32EEF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-%20black%20?style=for-the-badge&logo=cplusplus&logoColor=white"/>
             <img src="https://img.shields.io/badge/java-009eff?style=for-the-badge&logo=unacademy&logoColor=white"/>  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=2861cd"/> <img src="https://img.shields.io/badge/html-ff7800?style=for-the-badge&logo=html5&logoColor=white"/>
