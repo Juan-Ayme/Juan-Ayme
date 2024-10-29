@@ -10,19 +10,17 @@
     📖 Arquitectura de software • Sistemas distribuidos
     🎮 Música • Juegos • Anime • Código • Arte
 </pre>
-<br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
+<br>
 
 <h2 align="center">            ~ 📇 Conocimiento 📇 ~</h2>
- <br>
+
 <p>
   <div align="center">
     <img src="https://c.tenor.com/j5X2eG66ze0AAAAC/tenor.gif" align="right">
   </div>
 </div>
 <div>
-  <br>
     <p align="center">
         <pre align="center">
         💻 Tecnologías 
@@ -37,7 +35,7 @@
         </pre>
         <pre>
             🎨 Edición 
-            <img src="https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea&logoColor=017CFD"/> <img src="https://img.shields.io/badge/Android%20Studio-%20black%20?style=for-the-badge&logo=androidstudio&logoColor=54f677"/> 
+            <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=red"/> <img src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=0055ff"/> 
         </pre>
         <br>
         <br><br>
