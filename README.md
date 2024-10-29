@@ -35,7 +35,7 @@
         </pre>
         <pre>
             🎨 Edición 
-            <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=red"/> <img src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=0055ff"/> 
+            <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=red"/> <img src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=00aaff"/> <img src="https://img.shields.io/badge/premierepro-black?style=for-the-badge&logo=adobepremierepro&logoColor=422aef">
         </pre>
         <br>
         <br><br>
